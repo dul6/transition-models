@@ -61,7 +61,7 @@ Description
 	Phd. Thesis, RWTH Aachen University.
 
 	You Y, Luedeke H, Eggers T, et al. (2013).
-	Application of the γ-Reθt Transition Model in High Speed Flows[C].
+	Application of the γ-Reθt Transition Model in High Speed Flows.
 	Aiaa/3af International Space Planes & Hypersonic Systems & Technologies Conference. 
     \endverbatim
 
