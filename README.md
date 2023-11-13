@@ -40,7 +40,12 @@
 #### Description
     k-omega-SST DES turbulence model modified according to Menter & Kuntz (2004).
 #### Usage
-
+    FSST  0;
+    //- Zonal filter choice
+    //
+    // - 0: no filtering
+    // - 1: (1 - F1)
+    // - 2: (1 - F2)
 #### References
     Strelets, M. (2001). Detached Eddy Simulation of Massively Separated Flows, 39th AIAA Aerospace Sciences Meeting and Exhibit, Reno, NV
     Menter, F.R., Kuntz, M. (2004). Adaptation of Eddy-Viscosity Turbulence	Models to Unsteady Separated Flow Behind Vehicles. In: McCallen, R., Browand, F., Ross, J. (eds) The Aerodynamics of Heavy Vehicles: Trucks, Buses, and Trains. Lecture Notes in Applied and Computational Mechanics, vol 19. Springer, Berlin, Heidelberg.
